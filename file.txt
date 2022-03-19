@@ -1,0 +1,6 @@
+// console.log("hello world")
+// const calcul=require('./localModule')
+// console.log(calcul)
+// let a = 2;
+// let b = 5;
+// console.log(`le somme de ${a} + ${b}  =` , calcul.sum(a,b));
